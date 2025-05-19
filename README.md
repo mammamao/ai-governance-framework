@@ -2,6 +2,8 @@
 
 # AI Governance Framework 
 
+TEST
+
 Our goal is to mutually develop a governance framework that manages the on-boarding, development of, and running AI-based solutions within financial services organisations - allowing us all to unlock the potential of this disruptive technology in a safe, trustworthy and compliant way.
 
 [Take me to the AI Governance Framework](https://air-governance-framework.finos.org/)
